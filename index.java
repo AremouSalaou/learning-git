@@ -1,1 +1,5 @@
-System.out.println("Hello git"); 
+public class Demo{
+  public static void main(String [] agrs){
+  System.out.println("Hello git"); 
+  }
+}
